@@ -4,7 +4,7 @@
 main()
 {
     int vize, final;
-	  float ortalama;
+    float ortalama;
 Bsl:
     printf("vize-final")	;
 	
